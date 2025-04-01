@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Yu Xuan
-- 👀 I’m interested in learning more about data science and its applications
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in learning more about applications in machine learning
 - ⚡ Fun fact: I can play 2 instruments: the piano and violin!
 
 <!---
